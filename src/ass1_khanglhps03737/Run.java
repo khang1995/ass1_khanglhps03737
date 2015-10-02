@@ -16,9 +16,7 @@ public class Run {
             System.out.println("|3.Tìm SV                                                            |");
             System.out.println("|4.Xuất DSSV                                                         |");
             System.out.println("|5.Bảng Xếp Loại                                                     |");
-            System.out.println("|6.DSSV được khen thưởng                                             |");
-            System.out.println("|7.DSSV cần được hỗ trợ                                              |");
-            System.out.println("|8.Thoát                                                             |");
+            System.out.println("|6.DSSV được khen thưởng                                             |")
             System.out.println("----------------------------------------------------------------------");
             System.out.print("Mời bạn chọn:");
             chon=input.nextByte();
